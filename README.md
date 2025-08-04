@@ -20,3 +20,7 @@ cd ../frontend
 npm install
 npm start
 ```
+### Author  
+Vigneshwaran M    
+GitHub :  https://github.com/Vigneshwaran-dev  
+LinkedIn :https://www.linkedin.com/in/vigneshwaran004/    
